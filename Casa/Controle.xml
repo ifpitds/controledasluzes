@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="pt-BR" Name="CommandSet_pt-BR">
+    <CommandPrefix> Casa </CommandPrefix>
+    <Example> Dizendo olá </Example>
+    <Command Name="Diga olá">
+      <Example> diga olá </Example>
+      <ListenFor> diga olá </ListenFor>
+      <Feedback> vou te dar um ola</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Ligar Sala">
+      <Example> ligar sala </Example>
+      <ListenFor> ligar sala </ListenFor>
+      <Feedback> Vou ligar a sala</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Sala">
+      <Example> Desligar sala </Example>
+      <ListenFor> Desligar sala </ListenFor>
+      <Feedback> Vou Desligar a sala</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Ligar Sala 2">
+      <Example> ligar sala 2</Example>
+      <ListenFor> ligar sala 2</ListenFor>
+      <Feedback> Vou ligar a sala 2</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Sala 2">
+      <Example> Desligar sala 2 </Example>
+      <ListenFor> Desligar sala 2 </ListenFor>
+      <Feedback> Vou desligar a Sala 2</Feedback>
+      <Navigate/>
+    </Command>
+    
+    <Command Name="Ligar Sala 3">
+      <Example> ligar sala 3</Example>
+      <ListenFor> ligar sala 3</ListenFor>
+      <Feedback> Vou ligar a sala 3</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Sala 3">
+      <Example> Desligar sala 3</Example>
+      <ListenFor> Desligar sala 3</ListenFor>
+      <Feedback> Vou Desligar a sala 3</Feedback>
+      <Navigate/>
+    </Command>
+
+
+    <Command Name="Ligar Jardim">
+      <Example> Ligar Jardim </Example>
+      <ListenFor> ligar jardim </ListenFor>
+      <Feedback> Vou ligar o Jardim</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Jardim">
+      <Example> Desligar Jardim</Example>
+      <ListenFor> Desligar Jardim</ListenFor>
+      <Feedback> Vou Desligar o Jardim</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Ligar Jardim 2">
+      <Example> ligar Jardim 2</Example>
+      <ListenFor> ligar Jardim 2</ListenFor>
+      <Feedback> Vou ligar Jardim 2</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Jardim 2">
+      <Example> Desligar Jardim 2</Example>
+      <ListenFor> Desligar Jardim 2</ListenFor>
+      <Feedback> Vou Desligar Jardim 2</Feedback>
+      <Navigate/>
+    </Command>
+    <Command Name="Ligar Garagem">
+      <Example> ligar Garagem</Example>
+      <ListenFor> ligar Garagem</ListenFor>
+      <Feedback> Vou ligar a Garagem</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Garagem">
+      <Example> Desligar Garagem</Example>
+      <ListenFor> Desligar Garagem</ListenFor>
+      <Feedback> Vou Desligar a Garagem</Feedback>
+      <Navigate/>
+    </Command>
+    <Command Name="Ligar Copa">
+      <Example> ligar Copa</Example>
+      <ListenFor> ligar Copa</ListenFor>
+      <Feedback> Vou ligar a Copa</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Copa">
+      <Example> Desligar Copa</Example>
+      <ListenFor> Desligar Copa</ListenFor>
+      <Feedback> Vou Desligar a Copa</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Ligar Cozinha">
+      <Example> ligar Cozinha</Example>
+      <ListenFor> ligar Cozinha</ListenFor>
+      <Feedback> Vou ligar a Cozinha</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Cozinha">
+      <Example> Desligar Cozinha</Example>
+      <ListenFor> Desligar Cozinha</ListenFor>
+      <Feedback> Vou Desligar a Cozinha</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Ligar Tudo">
+      <Example> ligar tudo</Example>
+      <ListenFor> ligar tudo</ListenFor>
+      <Feedback> Vou ligar Tudo</Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="Desligar Tudo">
+      <Example> Desligar tudo</Example>
+      <ListenFor> Desligar Tudo</ListenFor>
+      <Feedback> Vou Desligar Tudo</Feedback>
+      <Navigate/>
+    </Command>
+
+  </CommandSet>
+</VoiceCommands>
